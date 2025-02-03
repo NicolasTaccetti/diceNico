@@ -1,5 +1,5 @@
 
-body {
+/* body {
     background-color: rgb(200,200,200);
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
@@ -19,5 +19,36 @@ header {
 footer {
 	font-style: italic;
 	font-size: 90%;
+} */
+
+
+
+body {
+    background-color: rgb(2, 156, 173);
+    color: rgb(255,255,255);
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+}
+canvas {
+    display: block;
+    margin: 10px auto;
 }
 
+#content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+header {
+	
+}
+
+footer {
+	font-style: italic;
+	font-size: 90%;
+}
+
+header, footer {
+    padding: 10px;
+}
