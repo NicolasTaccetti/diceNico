@@ -1,5 +1,5 @@
 
-/* body {
+body {
     background-color: rgb(200,200,200);
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
@@ -19,11 +19,11 @@ header {
 footer {
 	font-style: italic;
 	font-size: 90%;
-} */
+}
 
 
 
-body {
+/* body {
     background-color: rgb(2, 156, 173);
     color: rgb(255,255,255);
     font-family: "Gill Sans", sans-serif;
@@ -52,3 +52,4 @@ footer {
 header, footer {
     padding: 10px;
 }
+ */
