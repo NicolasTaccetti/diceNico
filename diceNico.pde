@@ -36,7 +36,7 @@ void draw()
           rect(0, 0, 250, i*5);
         }
         }
-  print(theSum);
+  //print(theSum);
 }
 
 void mousePressed()
