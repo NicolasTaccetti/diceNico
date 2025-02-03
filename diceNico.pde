@@ -1,8 +1,8 @@
 
 public void settings()
   {
-size(500, 500);
-    //size(250, 300);
+
+    size(250, 300);
   }
 void setup()
 {
